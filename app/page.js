@@ -1,5 +1,5 @@
 "use client";
-
+ 
 import { useState } from 'react';
 
 // 사전 합의된 더미 데이터 (데이터베이스 스키마 프로토타입)
