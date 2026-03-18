@@ -6,16 +6,16 @@ import { useState } from 'react';
 const DUMMY_ARCHIVES = [
   {
     id: "photo_001",
-    imageUrl: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?q=80&w=600&auto=format&fit=crop", // 임시 마을 사진
+    imageUrl: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?q=80&w=600&auto=format&fit=crop", 
     title: "1980년대 구갈동 마을 잔치",
     year: "1985",
     location: "기흥구 구갈동",
     donor: "김용인",
-    tags: ["마일잔치"]
+    tags: ["마을잔치"]
   },
   {
     id: "photo_002",
-    imageUrl: "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?q=80&w=600&auto=format&fit=crop", // 임시 전통 혼례 사진
+    imageUrl: "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?q=80&w=600&auto=format&fit=crop", 
     title: "김씨 가문 전통 혼례식",
     year: "1978",
     location: "처인구 김량장동",
@@ -24,7 +24,7 @@ const DUMMY_ARCHIVES = [
   },
   {
     id: "photo_003",
-    imageUrl: "https://images.unsplash.com/photo-1478147427282-58a87a120781?q=80&w=600&auto=format&fit=crop", // 임시 옛날 학교 사진
+    imageUrl: "https://images.unsplash.com/photo-1478147427282-58a87a120781?q=80&w=600&auto=format&fit=crop", 
     title: "용인초등학교 제 50회 졸업식",
     year: "1992",
     location: "처인구",
